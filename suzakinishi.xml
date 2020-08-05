@@ -7,10 +7,59 @@
   <googleplay:image href="https://seaside-c.github.io/suzakinishi/logo.png"/>
   <description>この番組は、洲崎綾と西明日香の2人が、新しいサービスを提供したり、新しい商品を生み出すことで、新たなビジネススキームを生み出す「アイデア生産」型バラエティ番組です。</description>
   <item>
-   <title>第1回放送</title>
-   <pubDate>Wed, 03 Jul 2013 01:00:00 GMT+9</pubDate>
+   <title>第1回放送</title><pubDate>Wed, 03 Jul 2013 01:00:00 GMT+9</pubDate>
    <enclosure url="https://seaside-c.github.io/suzakinishi/001.mp3" type="audio/mpeg" length="12912309"/>
    <itunes:duration>22:05</itunes:duration>
+  </item>
+  <item>
+   <title>第200回放送</title><pubDate>Wed, 26 Apr 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/200.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:00</itunes:duration>
+  </item>
+  <item>
+   <title>第201回放送</title><pubDate>Wed, 03 May 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/201.mp3" type="audio/mpeg" length="27361632"/>
+   <itunes:duration>28:36</itunes:duration>
+  </item>
+  <item>
+   <title>第202回放送</title><pubDate>Wed, 10 May 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/202.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:13</itunes:duration>
+  </item>
+  <item>
+   <title>第203回放送</title><pubDate>Wed, 17 May 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/203.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:13</itunes:duration>
+  </item>
+  <item>
+   <title>第204回放送</title><pubDate>Wed, 24 May 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/204.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:13</itunes:duration>
+  </item>
+  <item>
+   <title>第205回放送</title><pubDate>Wed, 31 May 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/205.mp3" type="audio/mpeg" length="27361632"/>
+   <itunes:duration>28:45</itunes:duration>
+  </item>
+  <item>
+   <title>第206回放送</title><pubDate>Wed, 07 Jun 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/206.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:13</itunes:duration>
+  </item>
+  <item>
+   <title>第207回放送</title><pubDate>Wed, 14 Jun 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/207.mp3" type="audio/mpeg" length="27361632"/>
+   <itunes:duration>28:45</itunes:duration>
+  </item>
+  <item>
+   <title>第208回放送</title><pubDate>Wed, 21 Jun 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/208.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:13</itunes:duration>
+  </item>
+  <item>
+   <title>第209回放送</title><pubDate>Wed, 28 Jun 2017 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/209.mp3" type="audio/mpeg" length="27841867"/>
+   <itunes:duration>29:04</itunes:duration>
   </item>
  </channel>
 </rss>
