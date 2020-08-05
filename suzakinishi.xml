@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ <channel>
+  <title>洲崎西</title>
+  <language>ja</language>
+  <link>https://seaside-c.github.io/</link>
+  <googleplay:image href="https://seaside-c.github.io/suzakinishi/logo.png"/>
+  <description>この番組は、洲崎綾と西明日香の2人が、新しいサービスを提供したり、新しい商品を生み出すことで、新たなビジネススキームを生み出す「アイデア生産」型バラエティ番組です。</description>
+  <item>
+   <title>第1回放送</title>
+   <pubDate>Wed, 03 Jul 2013 01:00:00 GMT+9</pubDate>
+   <enclosure url="https://seaside-c.github.io/suzakinishi/001.mp3" type="audio/mpeg" length="12912309"/>
+   <itunes:duration>22:05</itunes:duration>
+  </item>
+ </channel>
+</rss>
